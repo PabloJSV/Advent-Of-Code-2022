@@ -1,2 +1,2 @@
 # Advent-Of-Code-2022
-In this repo I intend to submit all my solutions for the 2022 Advent Of Code challenge, solved using Python
+In this repo I intend to submit all my solutions for the 2022 Advent Of Code challenge, solved using Python in Jupyter Notebooks to explain in an easily understandable way the steps I took to go through each exercise.
